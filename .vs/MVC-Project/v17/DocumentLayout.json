@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmad ali\\Desktop\\Project-MVC\\MVC-Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91D971C7-0129-43E3-A578-7A00B042A6D7}|Web-Project\\Web-Project.csproj|c:\\users\\ahmad ali\\desktop\\project-mvc\\mvc-project\\web-project\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91D971C7-0129-43E3-A578-7A00B042A6D7}|Web-Project\\Web-Project.csproj|solutionrelative:web-project\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D971C7-0129-43E3-A578-7A00B042A6D7}|Web-Project\\Web-Project.csproj|c:\\users\\ahmad ali\\desktop\\project-mvc\\mvc-project\\web-project\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91D971C7-0129-43E3-A578-7A00B042A6D7}|Web-Project\\Web-Project.csproj|solutionrelative:web-project\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D971C7-0129-43E3-A578-7A00B042A6D7}|Web-Project\\Web-Project.csproj|c:\\users\\ahmad ali\\desktop\\project-mvc\\mvc-project\\web-project\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91D971C7-0129-43E3-A578-7A00B042A6D7}|Web-Project\\Web-Project.csproj|solutionrelative:web-project\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D971C7-0129-43E3-A578-7A00B042A6D7}|Web-Project\\Web-Project.csproj|c:\\users\\ahmad ali\\desktop\\project-mvc\\mvc-project\\web-project\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91D971C7-0129-43E3-A578-7A00B042A6D7}|Web-Project\\Web-Project.csproj|solutionrelative:web-project\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D971C7-0129-43E3-A578-7A00B042A6D7}|Web-Project\\Web-Project.csproj|c:\\users\\ahmad ali\\desktop\\project-mvc\\mvc-project\\web-project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91D971C7-0129-43E3-A578-7A00B042A6D7}|Web-Project\\Web-Project.csproj|solutionrelative:web-project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D971C7-0129-43E3-A578-7A00B042A6D7}|Web-Project\\Web-Project.csproj|c:\\users\\ahmad ali\\desktop\\project-mvc\\mvc-project\\web-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{91D971C7-0129-43E3-A578-7A00B042A6D7}|Web-Project\\Web-Project.csproj|solutionrelative:web-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmad ali\\Desktop\\Project-MVC\\MVC-Project\\Web-Project\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web-Project\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ahmad ali\\Desktop\\Project-MVC\\MVC-Project\\Web-Project\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Web-Project\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T15:33:53.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmad ali\\Desktop\\Project-MVC\\MVC-Project\\Web-Project\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Web-Project\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ahmad ali\\Desktop\\Project-MVC\\MVC-Project\\Web-Project\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "Web-Project\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T15:07:08.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmad ali\\Desktop\\Project-MVC\\MVC-Project\\Web-Project\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Web-Project\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ahmad ali\\Desktop\\Project-MVC\\MVC-Project\\Web-Project\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "Web-Project\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T15:05:55.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmad ali\\Desktop\\Project-MVC\\MVC-Project\\Web-Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Web-Project\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ahmad ali\\Desktop\\Project-MVC\\MVC-Project\\Web-Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Web-Project\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwDQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T09:57:27.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmad ali\\Desktop\\Project-MVC\\MVC-Project\\Web-Project\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Web-Project\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ahmad ali\\Desktop\\Project-MVC\\MVC-Project\\Web-Project\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Web-Project\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T09:49:36.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\ahmad ali\\Desktop\\Project-MVC\\MVC-Project\\Web-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "Web-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\ahmad ali\\Desktop\\Project-MVC\\MVC-Project\\Web-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "Web-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADA2AAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-01T09:35:39.516Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
